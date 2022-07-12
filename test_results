@@ -1,0 +1,413 @@
+Running ImageProcessing
+Read test.jpg 
+Read download.jpg 
+-----------------------------------
+Test box blur for small image
+-----------------------------------
+-----------------------------------
+for matrix 2 x 2
+
+Fourier method took 0.468715 seconds
+Standart method took 0.021053 seconds
+
+
+-----------------------------------
+for matrix 3 x 3
+
+Fourier method took 0.469546 seconds
+Standart method took 0.035633 seconds
+
+
+-----------------------------------
+for matrix 4 x 4
+
+Fourier method took 0.471106 seconds
+Standart method took 0.057543 seconds
+
+
+-----------------------------------
+for matrix 5 x 5
+
+Fourier method took 0.476546 seconds
+Standart method took 0.086719 seconds
+
+
+-----------------------------------
+for matrix 6 x 6
+
+Fourier method took 0.477512 seconds
+Standart method took 0.114792 seconds
+
+
+-----------------------------------
+for matrix 7 x 7
+
+Fourier method took 0.473645 seconds
+Standart method took 0.149305 seconds
+
+
+-----------------------------------
+for matrix 8 x 8
+
+Fourier method took 0.489952 seconds
+Standart method took 0.190570 seconds
+
+
+-----------------------------------
+for matrix 9 x 9
+
+Fourier method took 0.480344 seconds
+Standart method took 0.235344 seconds
+
+
+-----------------------------------
+for matrix 10 x 10
+
+Fourier method took 0.471513 seconds
+Standart method took 0.285150 seconds
+
+
+-----------------------------------
+for matrix 11 x 11
+
+Fourier method took 0.483580 seconds
+Standart method took 0.346139 seconds
+
+
+-----------------------------------
+for matrix 12 x 12
+
+Fourier method took 0.499700 seconds
+Standart method took 0.420301 seconds
+
+
+-----------------------------------
+for matrix 13 x 13
+
+Fourier method took 0.482670 seconds
+Standart method took 0.475958 seconds
+
+
+-----------------------------------
+for matrix 14 x 14
+
+Fourier method took 0.511421 seconds
+Standart method took 0.546037 seconds
+
+
+-----------------------------------
+for matrix 15 x 15
+
+Fourier method took 0.476018 seconds
+Standart method took 0.622376 seconds
+
+
+-----------------------------------
+for matrix 16 x 16
+
+Fourier method took 0.472902 seconds
+Standart method took 0.692699 seconds
+
+
+-----------------------------------
+for matrix 17 x 17
+
+Fourier method took 0.483440 seconds
+Standart method took 0.783652 seconds
+
+
+-----------------------------------
+for matrix 18 x 18
+
+Fourier method took 0.470577 seconds
+Standart method took 0.874034 seconds
+
+
+-----------------------------------
+for matrix 19 x 19
+
+Fourier method took 0.479622 seconds
+Standart method took 0.990682 seconds
+
+
+-----------------------------------
+for matrix 20 x 20
+
+Fourier method took 0.476148 seconds
+Standart method took 1.075568 seconds
+
+
+-----------------------------------
+for matrix 21 x 21
+
+Fourier method took 0.478200 seconds
+Standart method took 1.168892 seconds
+
+
+-----------------------------------
+for matrix 22 x 22
+
+Fourier method took 0.475005 seconds
+Standart method took 1.272919 seconds
+
+
+-----------------------------------
+for matrix 23 x 23
+
+Fourier method took 0.469650 seconds
+Standart method took 1.394536 seconds
+
+
+-----------------------------------
+for matrix 24 x 24
+
+Fourier method took 0.475115 seconds
+Standart method took 1.487681 seconds
+
+
+-----------------------------------
+for matrix 25 x 25
+
+Fourier method took 0.468491 seconds
+Standart method took 1.609039 seconds
+
+
+-----------------------------------
+for matrix 26 x 26
+
+Fourier method took 0.477660 seconds
+Standart method took 1.761213 seconds
+
+
+-----------------------------------
+for matrix 27 x 27
+
+Fourier method took 0.468131 seconds
+Standart method took 1.928215 seconds
+
+
+-----------------------------------
+for matrix 28 x 28
+
+Fourier method took 0.482401 seconds
+Standart method took 2.019914 seconds
+
+
+-----------------------------------
+for matrix 29 x 29
+
+Fourier method took 0.469720 seconds
+Standart method took 2.141691 seconds
+
+
+-----------------------------------
+for matrix 30 x 30
+
+Fourier method took 0.471009 seconds
+Standart method took 2.268699 seconds
+
+
+-----------------------------------
+Test box blur for big image
+-----------------------------------
+-----------------------------------
+for matrix 2 x 2
+
+Fourier method took 2.093350 seconds
+Standart method took 0.209197 seconds
+
+
+-----------------------------------
+for matrix 3 x 3
+
+Fourier method took 2.092963 seconds
+Standart method took 0.363415 seconds
+
+
+-----------------------------------
+for matrix 4 x 4
+
+Fourier method took 4.376797 seconds
+Standart method took 0.574727 seconds
+
+
+-----------------------------------
+for matrix 5 x 5
+
+Fourier method took 4.388965 seconds
+Standart method took 0.843031 seconds
+
+
+-----------------------------------
+for matrix 6 x 6
+
+Fourier method took 9.269866 seconds
+Standart method took 1.146825 seconds
+
+
+-----------------------------------
+for matrix 7 x 7
+
+Fourier method took 9.212376 seconds
+Standart method took 1.520310 seconds
+
+
+-----------------------------------
+for matrix 8 x 8
+
+Fourier method took 9.279173 seconds
+Standart method took 1.929470 seconds
+
+
+-----------------------------------
+for matrix 9 x 9
+
+Fourier method took 9.204512 seconds
+Standart method took 2.426403 seconds
+
+
+-----------------------------------
+for matrix 10 x 10
+
+Fourier method took 9.196236 seconds
+Standart method took 2.938291 seconds
+
+
+-----------------------------------
+for matrix 11 x 11
+
+Fourier method took 9.203859 seconds
+Standart method took 3.512065 seconds
+
+
+-----------------------------------
+for matrix 12 x 12
+
+Fourier method took 9.199015 seconds
+Standart method took 4.130956 seconds
+
+
+-----------------------------------
+for matrix 13 x 13
+
+Fourier method took 9.212124 seconds
+Standart method took 4.818445 seconds
+
+
+-----------------------------------
+for matrix 14 x 14
+
+Fourier method took 9.307693 seconds
+Standart method took 5.540064 seconds
+
+
+-----------------------------------
+for matrix 15 x 15
+
+Fourier method took 9.284761 seconds
+Standart method took 6.317985 seconds
+
+
+-----------------------------------
+for matrix 16 x 16
+
+Fourier method took 9.200339 seconds
+Standart method took 7.145348 seconds
+
+
+-----------------------------------
+for matrix 17 x 17
+
+Fourier method took 9.238282 seconds
+Standart method took 8.040591 seconds
+
+
+-----------------------------------
+for matrix 18 x 18
+
+Fourier method took 9.285448 seconds
+Standart method took 8.994435 seconds
+
+
+-----------------------------------
+for matrix 19 x 19
+
+Fourier method took 9.235026 seconds
+Standart method took 10.050578 seconds
+
+
+-----------------------------------
+for matrix 20 x 20
+
+Fourier method took 9.598798 seconds
+Standart method took 11.006404 seconds
+
+
+-----------------------------------
+for matrix 21 x 21
+
+Fourier method took 9.433219 seconds
+Standart method took 12.652913 seconds
+
+
+-----------------------------------
+for matrix 22 x 22
+
+Fourier method took 9.354905 seconds
+Standart method took 13.492374 seconds
+
+
+-----------------------------------
+for matrix 23 x 23
+
+Fourier method took 9.280059 seconds
+Standart method took 14.476435 seconds
+
+
+-----------------------------------
+for matrix 24 x 24
+
+Fourier method took 9.203741 seconds
+Standart method took 15.916584 seconds
+
+
+-----------------------------------
+for matrix 25 x 25
+
+Fourier method took 9.533075 seconds
+Standart method took 16.852404 seconds
+
+
+-----------------------------------
+for matrix 26 x 26
+
+Fourier method took 9.451496 seconds
+Standart method took 18.491831 seconds
+
+
+-----------------------------------
+for matrix 27 x 27
+
+Fourier method took 9.661434 seconds
+Standart method took 20.245852 seconds
+
+
+-----------------------------------
+for matrix 28 x 28
+
+Fourier method took 9.746764 seconds
+Standart method took 21.990239 seconds
+
+
+-----------------------------------
+for matrix 29 x 29
+
+Fourier method took 9.453797 seconds
+Standart method took 23.203446 seconds
+
+
+-----------------------------------
+for matrix 30 x 30
+
+Fourier method took 9.566875 seconds
+Standart method took 25.070271 seconds
